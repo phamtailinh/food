@@ -1,0 +1,142 @@
+.menu_top {
+  background-color: black;
+}
+.menu_top ul {
+  margin: 0;
+}
+.menu_top ul li {
+  display: inline-block;
+}
+.menu_top ul li a {
+  color: white;
+  display: inline-block;
+  padding: 5px 10px;
+}
+.menu_top .right {
+  float: right;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+header ul li {
+  display: inline-block;
+  padding: 15px 20px;
+}
+header ul li a {
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.slider {
+  background-color: green;
+  padding: 150px;
+  text-align: center;
+}
+.slider h1 {
+  font-size: 60px;
+  color: white;
+  text-transform: uppercase;
+}
+.slider p {
+  font-size: 18px;
+  color: white;
+}
+.slider p a {
+  background-color: orange;
+  color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.advan {
+  padding: 50px 0;
+}
+.advan .title {
+  text-align: center;
+}
+.advan .title h2 {
+  font-size: 40px;
+  color: black;
+  text-transform: uppercase;
+}
+.advan .title h2 span {
+  color: green;
+}
+.advan .title p {
+  font-size: 16px;
+  color: #ccc;
+}
+.advan .col {
+  text-align: center;
+}
+.advan .col h3 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.advan .col p {
+  color: #ccc;
+}
+
+.lh h1 {
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+.lh b {
+  color: green;
+}
+.lh .col-6 a {
+  margin-top: 10px;
+  margin-left: 40px;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: orange;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px;
+}
+
+.adva {
+  padding: 50px 0;
+  background-color: white;
+}
+.adva .title {
+  text-align: center;
+}
+.adva .title h2 {
+  font-size: 40px;
+  color: black;
+  text-transform: uppercase;
+}
+.adva .title h2 span {
+  color: green;
+}
+.adva .title p {
+  font-size: 16px;
+  color: #ccc;
+}
+.adva .col {
+  text-align: center;
+}
+.adva .col h3 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.adva .col p {
+  color: #ccc;
+}
+.adva .col p a {
+  color: green;
+}/*# sourceMappingURL=Styless.css.map */
